@@ -1,7 +1,6 @@
 /*!
  * chartjs-plugin-annotation-line v3.0.0
- * https://chartjs-plugin-datalabels.netlify.app
- * (c) 2017-2022 chartjs-plugin-datalabels contributors
+ * (c) 2017-2022 chartjs-plugin-annotation-line contributors
  * Released under the MIT license
  */
 
