@@ -4,8 +4,7 @@ Draws notches on chart bars
 
 ## Demo:
 
-![alt text](https://github.com/daniil-loban/
-annotationLinePlugin-for-chartjs3/blob/main/assets/img/demo.png?raw=true)
+![alt text](https://github.com/daniil-loban/annotationLinePlugin-for-chartjs3/blob/main/assets/img/demo.png?raw=true)
 
 
 ## Using:
